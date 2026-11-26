@@ -15,14 +15,14 @@
   "extensions": [
     {
       "extension": "2000",
-      "identifier": "",
+      "identifier": "UUPOD4QG",
       "model": "",
       "name": "roi",
       "type": "other"
     },
     {
       "extension": "9999",
-      "identifier": "",
+      "identifier": "7KKCRVV5",
       "model": "",
       "name": "Mai_Shinano",
       "type": "unknown"
@@ -42,7 +42,7 @@
       "prefix": "661"
     },
     {
-      "identifier": "376299fd-2ab2-4848-aa2c-18aea6f5abef",
+      "identifier": "ff07d332-2c68-4107-808a-206e64615d4a",
       "mantela": "https://www.kur0den.net/.well-known/mantela.json",
       "name": "Kur0den-tel",
       "prefix": "961"
